@@ -1,16 +1,14 @@
 ---
 name: CallFire
 x-slug: callfire
-description: CallFire is a cloud-based telephony company that provides voice and text
-  connectivity services. It offers the necessary tools for businesses to communicate
-  and market effectively. The company works to provide a diverse line of innovative
-  products that enable its users to get their messages delivered.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+description: Grow your business with virtual phone numbers, IVR, voice broadcasting,
+  mass text messaging services and power dialing. Try CallFire for FREE!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "129466"
 tags: Texts
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/callfire/apis.md
 specificationVersion: "0.14"
 apis:
@@ -19,7 +17,7 @@ apis:
   description: Searches for texts sent or received by user. Use "campaignId=0" parameter
     to query for all texts sent through the POST /texts API. See [call states and
     results](https://developers.callfire.com/results-responses-errors.html)
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts
   tags: Texts
@@ -32,7 +30,7 @@ apis:
   x-api-slug: callfire
   description: Use the /texts API to send individual texts quickly. By default all
     texts are going out from CallFire's dedicated short code 67076
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts
   tags: Texts
@@ -43,7 +41,7 @@ apis:
   x-api-slug: callfire
   description: Find all text autoreplies created by user. Returns a paged list of
     TextAutoReply
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/auto-replys
   tags: Texts,Auto-replys
@@ -56,7 +54,7 @@ apis:
     numbers and keywords. You can set a general auto reply for anyone who texts your
     number, keyword, and/or include a text to match, so that the auto reply would
     be sent only to those who text the matched text
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/auto-replys
   tags: Texts,Auto-replys
@@ -67,7 +65,7 @@ apis:
   x-api-slug: callfire
   description: Deletes a text auto reply and removes the configuration. Can not delete
     a TextAutoReply which is currently active for a campaign
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/auto-replys/{id}
   tags: Texts,Auto-replys
@@ -78,7 +76,7 @@ apis:
   x-api-slug: callfire
   description: Returns a single TextAutoReply instance for a given text auto reply
     id
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/auto-replys/{id}
   tags: Texts,Auto-replys
@@ -90,7 +88,7 @@ apis:
   description: Searches for all text broadcasts created by user. Can query on label,
     name, and the current running status of the campaign. Returns a paged list of
     text broadcasts
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts
   tags: Texts,Broadcasts
@@ -104,7 +102,7 @@ apis:
     A campaign can be created without contacts and with bare minimum configuration,
     but contacts have to be added further on to use the campaign. It supports scheduling,
     retry logic, pattern-based messages.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts
   tags: Texts,Broadcasts
@@ -115,7 +113,7 @@ apis:
   x-api-slug: callfire
   description: Returns a single TextBroadcast instance for a given text broadcast
     id
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}
   tags: Texts,Broadcasts
@@ -126,7 +124,7 @@ apis:
   x-api-slug: callfire
   description: Allows modifying the configuration of existing text broadcast campaign.
     See TextBroadcast for more information on what can/can't be updated on this API
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}
   tags: Texts,Broadcasts
@@ -136,7 +134,7 @@ apis:
 - name: Callfire Archive text broadcast
   x-api-slug: callfire
   description: Archives a text broadcast (and hides it in the search results)
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/archive
   tags: Texts,Broadcasts,Archive
@@ -147,7 +145,7 @@ apis:
   x-api-slug: callfire
   description: This endpoint will enable the user to page through all of the batches
     for a particular text broadcast campaign
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/batches
   tags: Texts,Broadcasts,Batches
@@ -161,7 +159,7 @@ apis:
     (unlike in the recipients version of this API). That is why using of a scrubDuplicates
     flag remove duplicates from your batch. Batches may be added as a contact list
     id, a list of contact ids, or a list of numbers
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/batches
   tags: Texts,Broadcasts,Batches
@@ -175,7 +173,7 @@ apis:
     broadcast campaign. These contacts will not go through validation process, and
     will be acted upon as they are added. Recipients may be added as a list of contact
     ids, or list of numbers
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/recipients
   tags: Texts,Broadcasts,Recipients
@@ -185,7 +183,7 @@ apis:
 - name: Callfire Start text broadcast
   x-api-slug: callfire
   description: Starts a text broadcast
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/start
   tags: Texts,Broadcasts,Start
@@ -196,7 +194,7 @@ apis:
   x-api-slug: callfire
   description: 'Returns the broadcast statistics. Example: total number of the sent/received
     actions, total cost, number of remaining outbound actions, error count, etc'
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/stats
   tags: Texts,Broadcasts,Stats
@@ -206,7 +204,7 @@ apis:
 - name: Callfire Stop text broadcast
   x-api-slug: callfire
   description: Stops a text broadcast
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/stop
   tags: Texts,Broadcasts,Stop
@@ -217,7 +215,7 @@ apis:
   x-api-slug: callfire
   description: This endpoint will enable the user to page through all of the texts
     for a particular text broadcast campaign
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/broadcasts/{id}/texts
   tags: Texts,Broadcasts,Texts
@@ -227,7 +225,7 @@ apis:
 - name: Callfire Find a specific text
   x-api-slug: callfire
   description: Returns a single Text instance for a given text id
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2//texts/{id}
   tags: Texts
@@ -236,11 +234,9 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/callfire/textsid-get-openapi.md
 - name: Callfire
   x-api-slug: callfire
-  description: CallFire is a cloud-based telephony company that provides voice and
-    text connectivity services. It offers the necessary tools for businesses to communicate
-    and market effectively. The company works to provide a diverse line of innovative
-    products that enable its users to get their messages delivered.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  description: Grow your business with virtual phone numbers, IVR, voice broadcasting,
+    mass text messaging services and power dialing. Try CallFire for FREE!
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg
   humanURL: http://www.callfire.com
   baseURL: https://www.callfire.com//v2
   tags: Texts
@@ -248,7 +244,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/callfire/openapi.md
 x-common:
-- type: x-net-sdk
+- type: x--net-sdk
   url: https://github.com/CallFire/CallFire-CSharp-SDK
 - type: x-account-billing
   url: https://answers.callfire.com/hc/en-us/sections/200166268-Billing
@@ -270,12 +266,16 @@ x-common:
   url: https://www.callfire.com/contact
 - type: x-crunchbase
   url: https://www.crunchbase.com/organization/callfire
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/callfire
 - type: x-developer
   url: https://www.callfire.com/api-documentation
 - type: x-documentation
   url: https://www.callfire.com/api-documentation/rest/version/1.1
 - type: x-drupal-plugin
   url: https://github.com/CallFire/CallFire-Drupal-Integration
+- type: x-email
+  url: answers@callfire.com
 - type: x-email
   url: support@callfire.com
 - type: x-facebook
