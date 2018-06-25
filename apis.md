@@ -4,7 +4,7 @@ description: This is a repository of texts APIs, self-contained as a Github repo
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/texts.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://texts.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
