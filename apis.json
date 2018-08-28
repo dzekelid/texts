@@ -1,0 +1,622 @@
+{
+	"name": "Streadata.io API Gallery - Texts",
+	"description": "This is a repository of texts APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/texts.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://texts.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ABBYY",
+			"x-api-slug": "abbyy",
+			"description": "ABBYY is a leading provider of document conversion, data capture, and linguistic software and services. The key areas of ABBYY???s research and development include document recognition and linguistic technologies. ABBYY???s recognition technologies and products help people manage the increasing amount of information delivering powerful instruments which enable them to: unlock information from paper and images, automatically acquire data, and process and store valuable information. Using recognition and data capture products, people save money and effort typically spent on data entry, and benefit from the ability to access information in new, more efficient ways. Our linguistic products help break down language barriers, facilitating easier and clearer communication.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/298-abbyy-cloud-ocr-sdk.jpg",
+			"humanURL": "http://ocrsdk.com/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/abbyy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ConvertAPI",
+			"x-api-slug": "convertapi",
+			"description": "Create PDF easily with our developers API/SDK for Ruby Java .NET C# PHP Shell Delphi.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-convertapi.jpg",
+			"humanURL": "http://www.convertapi.com/",
+			"baseURL": "https://do.convertapi.com//",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/convertapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "pdfcrowd",
+			"x-api-slug": "pdfcrowd",
+			"description": "Pdfcrowd is a Web/HTML to  PDF online service. Convert HTML to PDF online in the browser or in your PHP,  Python, Ruby, .NET, Java apps via the REST API.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/453-pdfcrowd.jpg",
+			"humanURL": "http://pdfcrowd.com",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/pdfcrowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Copyto.co",
+			"x-api-slug": "copyto-co",
+			"description": "Connect2Field provides field service management applications to service businesses of all sizes around the globe. Connect2Field is the name of both the company and the software application it supplies.Any type of service business that needs to manage the work of staff remotely can benefit from Connect2Field.Connect2Field offers: job scheduling software, field service software, service industry software, job dispatch software and mobile job management solutions. A simple subscription-based pricing model is used.?????Connect2Field is a private company headquartered in Sydney, Australia, with representation in New Zealand, United States, Canada, United Kingdom, Asia and Ireland.Connect2Field has strategic partnerships with leading SMS, Fax, Electronic Payment and Accounting Software businesses.Connect2Field is a secure, web-based application built on the Microsoft Windows Azure cloud architecture. This enables users to work from anywhere in the world through any web browser.Service businesses can dispatch and manage jobs with easy, schedule based on location or priority, set reoccurring jobs, or just one off service calls.Field workers receive their jobs via Internet-enabled mobile device (smartphones, PDAs, Notebook computers, Iphone, iPads etc), and update their status in real time. Managers can now work closer with their teams, and have information on hand when needed. Customers also have the ability to view job status, create jobs, view invoice history and scheduler.Connect2Field integrates with many different web based applications. Customer contacts and invoices are transferred automatically to reduce office staff administration. This reduces paper work and eliminates double handling.With an integrated API (application programming interface), a business???????s website can be linked to capture information directly into Connect2Field to extend service direct to customers.Connect2Field is available globally.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/copyto.png",
+			"humanURL": "http://copyto.co",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/copyto-co/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Group Texting",
+			"x-api-slug": "group-texting",
+			"description": "Send Mass Text Messages from your computer using our long codes for fast, affordable, hassle-free bulk SMS marketing campaigns. Setup is free. Get going in 60 seconds.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/603-group-texting.jpg",
+			"humanURL": "http://grouptexting.com",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/group-texting/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ivona",
+			"x-api-slug": "ivona",
+			"description": "The Ivona team researches, develops and delivers high-caliber multi-language Text-to-Speech technology, leading in voice quality and accuracy. We are a team of creative people who successfully combine passion and ambition in creating the best TTS technology in the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1020-ivona-text-to-speech.jpg",
+			"humanURL": "http://www.ivona.com/us/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/ivona/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Full RSS to Email",
+			"x-api-slug": "full-rss-to-email",
+			"description": "All-in-One Full Text RSS Builder - Feed API, Full RSS Converter & Real-time RSS to Email Service to Turn Shortened RSS into Full Text RSS Feeds, Create Full RSS Feeds & Convert XML & HTML to JSON in Seconds.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1057-full-rss-to-email.jpg",
+			"humanURL": "http://www.feedsapi.com",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/full-rss-to-email/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FireText",
+			"x-api-slug": "firetext",
+			"description": "FireText bring the power of SMS Marketing to ALL businesses in the UK. Whether you are a independent restaurant looking to fill empty seats, an events company looking to shout about your event, or even a law firm looking to contact quiet customers&#8230;FireText can really help and deliver some outstanding results. Send messages to 1 or 100,000+ Receive messages on your dedicated number Collect new customer contacts in seconds Auto-reply with Vouchers and Offers Forward messages to mobile and email Plus a lot more&#8230;. FireText is a UK based company using UK Tier 1 connections to send your SMS. The highest quality with the highest level of service. The FireText team will happily help you at all stages of your SMS campaign. Start increasing your sales today at a very low cost!SpecialtiesSMS Marketing, Text Marketing, Email to SMS",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1058_logo.jpg",
+			"humanURL": "http://www.firetext.co.uk/sms-marketing-features/developer-sms-api/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/firetext/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "nimbuzz",
+			"x-api-slug": "nimbuzz",
+			"description": "Get the latest, headlines, breaking, regional news fast. General News, World News, Technology News, Business News, Sports News, Entertainment News, Health News, Fashion News, Politics News, Education News, New and Knowledgeable Article.-English--United...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1099-nimbuzz.jpg",
+			"humanURL": "http://developers.nimbuzz.com/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/nimbuzz/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sysomos",
+			"x-api-slug": "sysomos",
+			"description": "A unified, insights-driven social platform empowering marketers to search, discover, listen, publish, engage, and analyze across earned, owned, and paid media.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1482-sysomos.jpg",
+			"humanURL": "https://sysomos.com/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/sysomos/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Trustlinker",
+			"x-api-slug": "trustlinker",
+			"description": "Kong is the worlds most popular open source microservice API gateway. Use Kong to secure, manage and orchestrate microservice APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1493-trustlinker.jpg",
+			"humanURL": "https://www.mashape.com/trustlinker-de/trustlinker-de",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/trustlinker/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transit & Trails",
+			"x-api-slug": "transit--trails",
+			"description": "Transit and Trails connects you to parks and open spaces by helping you Find, Plan and Share your outdoor adventures. You can locate trailheads near you (or any location) and we help you get there on public transportation or get the directions you need to walk, bike, or drive there. You might try one of the many existing trips on the site or make a new one. You can then share your plans with a link for an email, an Evite or post the trip to Facebook and Twitter. After your hike, share pictures and your experience on Transit and Trails and join the community of people who care about and love exploring parks, trails and open spaces.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transit-trails.png",
+			"humanURL": "http://www.transitandtrails.org",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/transit--trails/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TextRazor",
+			"x-api-slug": "textrazor",
+			"description": "The service provides analysis of selected text passages to identify named entities and statements of fact with disambiguation to distinguish similar text strings. It applies machine learning algorithms and natural language processing to connect a text sample with a knowledge base and identify known elements and their relationships. API methods support submission of a text sample to be parsed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/textrazor.gif",
+			"humanURL": "http://www.textrazor.com",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/textrazor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Treparel KMX for OEM",
+			"x-api-slug": "treparel-kmx-for-oem",
+			"description": "KMX is an integral part of our IP analysis toolbox. It contributes to our capability of making added value IP analyses of technologies and competitors to s",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1590-treparel-kmx-for-oem.jpg",
+			"humanURL": "http://treparel.com/kmx-for-oem/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/treparel-kmx-for-oem/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SentiRate",
+			"x-api-slug": "sentirate",
+			"description": "PeekYou places the individual at the center of the Internet. For every public weblink, PeekYou tries to answer the question, &#8220;Who made it?&#8221; or, where applicable, &#8220;Whom is it about?&#8221; So far, we&#8217;ve answered those questions for a billion links and counting. Our patented technology analyzes content from over sixty social sites, news sources, homepages and blog platforms and identifies the actual people behind it, combining their scattered digital footprints into a comprehensive record of their online identity.Google calculates the likelihood of any link being associated to a keyword. PeekYou calculates the likelihood of any link being associated to an individual.The company was founded in 2006 by Michael Hussey and is headquartered in New York City.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1624_logo.png",
+			"humanURL": "http://sentirate.com/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/sentirate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Voice RSS",
+			"x-api-slug": "voice-rss",
+			"description": "Voice RSS provides free text-to-speech (TTS) online service and free TTS API with very fast and simple integration.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1737-voice-rss.jpg",
+			"humanURL": "http://www.voicerss.org",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/voice-rss/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IdeaSynthesis",
+			"x-api-slug": "ideasynthesis",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1906_logo.png",
+			"humanURL": "http://textibility.com/",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/ideasynthesis/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Reddit",
+			"x-api-slug": "reddit",
+			"description": "Reddit is a community of millions of users engaging in the creation of content and the sharing of conversation across tens of thousands of topics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg",
+			"humanURL": "http://www.reddit.com",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/reddit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Datumbox",
+			"x-api-slug": "datumbox",
+			"description": "Build quickly and easily Intelligent Applications by using the power of Machine Learning!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg",
+			"humanURL": "http://datumbox.com",
+			"baseURL": "https://api.datumbox.com/1.0/",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/datumbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CallFire",
+			"x-api-slug": "callfire",
+			"description": "Grow your business with virtual phone numbers, IVR, voice broadcasting, mass text messaging services and power dialing. Try CallFire for FREE!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg",
+			"humanURL": "http://www.callfire.com",
+			"baseURL": "https://www.callfire.com//v2",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/callfire/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Polly",
+			"x-api-slug": "aws-polly",
+			"description": "Amazon Polly is a service that turns text into lifelike speech. Polly lets you create applications that talk, enabling you to build entirely new categories of speech-enabled products. Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. Polly includes 47 lifelike voices spread across 24 languages, so you can select the ideal voice and build speech-enabled applications that work in many different countries.Amazon Polly delivers the consistently fast response times required to support real-time, interactive dialog. You can cache and save Polly&rsquo;s speech audio to replay offline or redistribute. And Polly is easy to use. You simply send the text you want converted into speech to the Polly API, and Polly immediately returns the audio stream to your application so your application can play it directly or store it in a standard audio file format, such as MP3.With Polly, you only pay for the number of characters you convert to speech, and you can save and replay Polly&rsquo;s generated speech. Polly&rsquo;s low cost per character converted, and lack of restrictions on storage and reuse of voice output, make it a cost-effective way to enable Text-to-Speech everywhere.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg",
+			"humanURL": "https://aws.amazon.com/polly/",
+			"baseURL": ":///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/aws-polly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Amadeus",
+			"x-api-slug": "amadeus",
+			"description": "Amadeus travel technology helps businesses connect to the global travel ecosystem, manage operations more effectively and serve travellers better than ever",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg",
+			"humanURL": "https://amadeus.com",
+			"baseURL": "https://api.sandbox.amadeus.com//v1.2",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/amadeus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ParallelDots",
+			"x-api-slug": "paralleldots",
+			"description": "ParallelDots is one of the best applied AI research groups in the world. We work with enterprises globally to tackle challenging business problems and create the winners of tomorrow. We also provide AI consulting services to explore the what, why, how and who about deploying AI in businesses. Try-out our cutting edge text analysis APIs and join the community of 1,000+ global users. Contact us at contact@paralleldots.com and tell us about the challenging business problems that you are facing.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paralleldots-logo.png",
+			"humanURL": "https://www.paralleldots.com/",
+			"baseURL": "https://apis.paralleldots.com//v3",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/paralleldots/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SAP",
+			"x-api-slug": "sap",
+			"description": "Get software and technology solutions from SAP, the leader in business applications.  Run simple with the best in cloud, analytics, mobile and IT solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28252-www-sap-com.jpg",
+			"humanURL": "https://www.sap.com/index.html",
+			"baseURL": "https://sandbox.api.sap.com//translationhub/api/v1",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/sap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Trello",
+			"x-api-slug": "trello",
+			"description": "Trusted by millions, Trello is the visual collaboration tool that creates a shared perspective on any project. Trello&rsquo;s boards, lists and cards enable you to organize and prioritize your personal and work life in a fun, flexible and rewarding way.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png",
+			"humanURL": "http://trello.com",
+			"baseURL": "https://trello.com//1",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/trello/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xibo",
+			"x-api-slug": "xibo",
+			"description": "Xibo Digital Signage is a low-cost, high performance solution to launch your business, workplace or organisation into the future. Xibo doesn&rsquo;t just replicate print media, but actively increases engagement allowing you to deliver your message more effectively than ever before.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xibo-digital-signage-logo.jpeg",
+			"humanURL": "http://www.xibo.org.uk",
+			"baseURL": "https:////api",
+			"tags": "Texts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/xibo/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Texts",
+	"include": [
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "ABBYY",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/abbyy/apis.yaml"
+		},
+		{
+			"name": "ConvertAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/convertapi/apis.yaml"
+		},
+		{
+			"name": "pdfcrowd",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/pdfcrowd/apis.yaml"
+		},
+		{
+			"name": "Copyto.co",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/copyto-co/apis.yaml"
+		},
+		{
+			"name": "Group Texting",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/group-texting/apis.yaml"
+		},
+		{
+			"name": "Ivona",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/ivona/apis.yaml"
+		},
+		{
+			"name": "Full RSS to Email",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/full-rss-to-email/apis.yaml"
+		},
+		{
+			"name": "FireText",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/firetext/apis.yaml"
+		},
+		{
+			"name": "nimbuzz",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/nimbuzz/apis.yaml"
+		},
+		{
+			"name": "Sysomos",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/sysomos/apis.yaml"
+		},
+		{
+			"name": "Trustlinker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/trustlinker/apis.yaml"
+		},
+		{
+			"name": "Transit & Trails",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/transit--trails/apis.yaml"
+		},
+		{
+			"name": "TextRazor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/textrazor/apis.yaml"
+		},
+		{
+			"name": "Treparel KMX for OEM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/treparel-kmx-for-oem/apis.yaml"
+		},
+		{
+			"name": "SentiRate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/sentirate/apis.yaml"
+		},
+		{
+			"name": "Voice RSS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/voice-rss/apis.yaml"
+		},
+		{
+			"name": "IdeaSynthesis",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/ideasynthesis/apis.yaml"
+		},
+		{
+			"name": "Reddit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/reddit/apis.yaml"
+		},
+		{
+			"name": "Datumbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/datumbox/apis.yaml"
+		},
+		{
+			"name": "CallFire",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/callfire/apis.yaml"
+		},
+		{
+			"name": "AWS Polly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/aws-polly/apis.yaml"
+		},
+		{
+			"name": "Amadeus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/amadeus/apis.yaml"
+		},
+		{
+			"name": "ParallelDots",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/paralleldots/apis.yaml"
+		},
+		{
+			"name": "SAP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/sap/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Trello",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/trello/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "Xibo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/texts/master/_listings/xibo/apis.yaml"
+		}
+	]
+}
